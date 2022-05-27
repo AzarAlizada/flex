@@ -1,0 +1,21 @@
+@media only screen and (max-width:992px){
+
+}
+
+
+@media only screen and (max-width:768px){
+    .hand{
+      background: none;
+    }
+
+    .header-body {
+        margin-left: 20px;
+        text-align: center;
+    }
+    
+}
+
+
+@media only screen and (max-width:576px){
+    
+}
